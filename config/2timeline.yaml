@@ -1,0 +1,19 @@
+"0 8 * * *":
+  platforms: all
+  push: true
+  max_items: 10
+
+"0 12 * * *":
+  platforms: all
+  push: true
+  max_items: 10
+
+"0 16 * * *":
+  platforms: all
+  push: true
+  max_items: 10
+
+"0 20 * * *":
+  platforms: all
+  push: true
+  max_items: 15
